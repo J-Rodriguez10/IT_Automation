@@ -1,0 +1,3 @@
+﻿# Ignore generated reports, but keep this folder
+output/*
+!output/README.md
